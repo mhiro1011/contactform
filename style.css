@@ -1,0 +1,22 @@
+h1 {
+    border-left: 10px solid red;
+    background-color: lightgray;
+    width:500px;
+}
+
+.main {
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #EEEEEE;
+}
+
+.name, .mail, .age, .coment, .submit {
+    margin: 20px;
+}
+
+.submit {
+    color: white;
+    background-color: gray;
+    
+}
